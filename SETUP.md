@@ -109,12 +109,3 @@ AI-Models-Educational-Assessment/
 ```
 
 ---
-
-## 📧 Submission Information
-
-**Research Plan Status**: Complete and ready for submission  
-**Repository**: https://github.com/Aakash-Lalwani/AI-Models-Educational-Assessment  
-**Date**: September 13, 2025  
-**Author**: Aakash Lalwani  
-
-This research plan provides a comprehensive framework for evaluating open-source AI models for educational assessment, with specific focus on Python learning competence analysis.
