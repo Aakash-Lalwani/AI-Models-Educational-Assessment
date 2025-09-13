@@ -70,9 +70,3 @@ This research will produce:
 Research draws from recent advances in code-specialized language models, educational AI systems, and pedagogical prompt engineering methodologies documented in the academic literature on AI-assisted learning.
 
 ---
-
-## 📧 Submission Information
-
-**Repository**: https://github.com/Aakash-Lalwani/AI-Models-Educational-Assessment  
-**Date**: September 13, 2025  
-**Author**: Aakash Lalwani
