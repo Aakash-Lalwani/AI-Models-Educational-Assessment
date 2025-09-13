@@ -73,6 +73,6 @@ Research draws from recent advances in code-specialized language models, educati
 
 ## 📧 Submission Information
 
-**Repository**: [To be added after GitHub creation]  
+**Repository**: https://github.com/Aakash-Lalwani/AI-Models-Educational-Assessment  
 **Date**: September 13, 2025  
-**Contact**: For questions regarding this research plan
+**Author**: Aakash Lalwani
